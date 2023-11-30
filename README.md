@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AkshatSinghal1709?tab=repositories](https://github.com/AkshatSinghal1709?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repo](https://github.com/AkshatSinghal1709?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
